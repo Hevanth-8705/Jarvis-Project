@@ -1,0 +1,6 @@
+@echo off
+echo Setting up Jarvis AI Backend...
+pip install -r requirements.txt
+echo Starting Jarvis Engine...
+python main.py
+pause
